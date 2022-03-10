@@ -1,0 +1,19 @@
+{
+  "name": "mica",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/micaatgithub/thisexerciseisweird.git"
+  },
+  "author": "Mica Chau",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/micaatgithub/thisexerciseisweird/issues"
+  },
+  "homepage": "https://github.com/micaatgithub/thisexerciseisweird#readme",
+  "description": ""
+}
