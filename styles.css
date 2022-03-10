@@ -1,0 +1,13 @@
+body p1{
+    font-family: 'Libre Baskerville', serif;
+    font-size: 40px;
+    font-style: italic;
+}
+
+img {
+    width: 200px;
+    height: 200px;
+    position: absolute;
+    bottom: 475px;
+    left: 5px;
+}
